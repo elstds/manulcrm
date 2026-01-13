@@ -1,5 +1,7 @@
 .venv
-app/__pycache__
-app/core/__pycache__
 .ruff_cache
 .env
+
+app/__pycache__
+app/core/__pycache__
+app/users/__pycache__
