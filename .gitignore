@@ -1,6 +1,7 @@
-venv
-.DS_Store
-.idea
-.pytest_cache
-eeazycrm/config_vars.py
-eeazycrm/__pycache__
+.venv
+.ruff_cache
+.env
+
+app/__pycache__
+app/core/__pycache__
+app/users/__pycache__
